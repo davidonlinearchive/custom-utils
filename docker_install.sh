@@ -1,3 +1,5 @@
+!#/usr/bin/env bash
+
 sudo apt update -y
 sudo apt install -y docker.io
 sudo apt install -y docker-compose
